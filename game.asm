@@ -166,10 +166,10 @@ MAIN ENDP
 
 ;------------------------------------------------------------------CLEAR_SCREEN1
 CLEAR_SCREEN1 PROC NEAR
-  MOV AX, 0600H   ;full screen
-  MOV BH, 8BH    ;black background (8 - blinking), light aqua foreground (1)
-  MOV CX, 0000H   ;upper left row:column (0:0)
-  MOV DX, 104FH   ;lower right row:column (16:79)
+  MOV AX, 0600H                                ;full screen
+  MOV BH, 8BH                                  ;black background (8 - blinking), light aqua foreground (1)
+  MOV CX, 0000H                                ;upper left row:column (0:0)
+  MOV DX, 104FH                                ;lower right row:column (16:79)
   INT 10H
 
   RET
