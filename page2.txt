@@ -7,16 +7,17 @@
  █                                                                            █
  █                    Catch the falling words by typing it.                   █
  █                   You are only allowed to enter it once,                   █
- █                              no use of backspace                           █
- █                                                                            █ 
+ █                              no use of backspace.                          █
+ █                 The word is valid after you press enter button.            █
+ █                                                                            █
+ █                                                                            █
+ █                                                                            █
+ █                                                                            █
+ █                                                                            █
  █                                                                            █
  █                                 1 Play                                     █
  █                                 2 Back                                     █
  █                                 3 Exit                                     █
- █                                                                            █
- █                                                                            █
- █                                                                            █
- █                                                                            █
  █                                                                            █
  █                                                                            █
  ██████████████████████████████████████████████████████████████████████████████
